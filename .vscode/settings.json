@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "emmet.excludeLanguages": [
+    
+        "markdown"
+    ],
+    "emmet.triggerExpansionOnTab": true,
+
+"emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+}
+}
